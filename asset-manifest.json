@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Zoro/static/css/main.c0f3f265.css",
+    "main.js": "/Zoro/static/js/main.8efbe3a8.js",
+    "index.html": "/Zoro/index.html",
+    "main.c0f3f265.css.map": "/Zoro/static/css/main.c0f3f265.css.map",
+    "main.8efbe3a8.js.map": "/Zoro/static/js/main.8efbe3a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0f3f265.css",
+    "static/js/main.8efbe3a8.js"
+  ]
+}
