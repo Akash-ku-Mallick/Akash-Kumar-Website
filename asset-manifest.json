@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Akash-Kumar/static/css/main.cddb7e7c.css",
-    "main.js": "/Akash-Kumar/static/js/main.49a3791c.js",
+    "main.js": "/Akash-Kumar/static/js/main.029f11f5.js",
     "index.html": "/Akash-Kumar/index.html",
     "main.cddb7e7c.css.map": "/Akash-Kumar/static/css/main.cddb7e7c.css.map",
-    "main.49a3791c.js.map": "/Akash-Kumar/static/js/main.49a3791c.js.map"
+    "main.029f11f5.js.map": "/Akash-Kumar/static/js/main.029f11f5.js.map"
   },
   "entrypoints": [
     "static/css/main.cddb7e7c.css",
-    "static/js/main.49a3791c.js"
+    "static/js/main.029f11f5.js"
   ]
 }
