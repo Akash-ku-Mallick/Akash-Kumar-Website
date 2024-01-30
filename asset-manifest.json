@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Akash-Kumar/static/css/main.08a8bfef.css",
+    "main.css": "/Akash-Kumar/static/css/main.22961d52.css",
     "main.js": "/Akash-Kumar/static/js/main.65760418.js",
     "static/media/my_picture.png": "/Akash-Kumar/static/media/my_picture.ce852910a06d41e1c6f6.png",
     "static/media/Heropic.jpg": "/Akash-Kumar/static/media/Heropic.0e2df6c4972a62db68d7.jpg",
     "static/media/Heropic2.jpg": "/Akash-Kumar/static/media/Heropic2.5a77a912f1d98072ed2a.jpg",
     "index.html": "/Akash-Kumar/index.html",
-    "main.08a8bfef.css.map": "/Akash-Kumar/static/css/main.08a8bfef.css.map",
+    "main.22961d52.css.map": "/Akash-Kumar/static/css/main.22961d52.css.map",
     "main.65760418.js.map": "/Akash-Kumar/static/js/main.65760418.js.map"
   },
   "entrypoints": [
-    "static/css/main.08a8bfef.css",
+    "static/css/main.22961d52.css",
     "static/js/main.65760418.js"
   ]
 }
